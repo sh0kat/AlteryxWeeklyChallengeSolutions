@@ -1,0 +1,1302 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.2">
+  <Nodes>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="738" y="242" width="60" height="75" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Finish</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="66" y="326" width="60" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Start</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="66" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="287" />
+          <Fields>
+            <Field name="Field_1" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Message-ID: &lt;25359322.1075840256304.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Mon, 25 Oct 1999 16:06:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: beau@rrhinvestments.com</c>
+            </r>
+            <r>
+              <c>To: kenneth.lay@enron.com</c>
+            </r>
+            <r>
+              <c>Subject: TCW Galileo Aggressive Growth Equities Fund</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>X-From: "Beau Herrold" &lt;beau@rrhinvestments.com&gt;</c>
+            </r>
+            <r>
+              <c>X-To: Kenneth Lay</c>
+            </r>
+            <r>
+              <c><![CDATA[X-cc: ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>Re: TCW Galileo Aggressive Growth Equities Fund</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[I spoke with Bob Hanisee from TCW and he confirmed that if you put any more ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[monies into the fund before December 20th you would be subject to all of the ]]></c>
+            </r>
+            <r>
+              <c>capital gains for the year.  He recommended that we hold off until such time.</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[I asked him to find out about the Small Cap Growth Fund and Select Equities ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[Fund as well, so that we would be well informed about any similar ]]></c>
+            </r>
+            <r>
+              <c>circumstances.</c>
+            </r>
+            <r>
+              <c><![CDATA[ - att1.htm]]></c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;5738454.1075840256326.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Tue, 9 Nov 1999 07:52:00 -0800 (PST)</c>
+            </r>
+            <r>
+              <c>From: beau@rrhinvestments.com</c>
+            </r>
+            <r>
+              <c>To: kenneth.lay@enron.com</c>
+            </r>
+            <r>
+              <c>Subject: Carson Private Capital meeting</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>X-From: "Beau Herrold" &lt;beau@rrhinvestments.com&gt;</c>
+            </r>
+            <r>
+              <c>X-To: Kenneth Lay</c>
+            </r>
+            <r>
+              <c><![CDATA[X-cc: ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[Royal Carson of Carson Private Capital wanted to set-up a time to meet with ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[you to give you an update on the two funds - Fund IV & Europe Fund.  I am ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[going to go ahead and meet with him next week in Dallas since I will be there ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[attending the Family Wealth Roundtable (11/16-17).  I will fill you in on our ]]></c>
+            </r>
+            <r>
+              <c>meeting.</c>
+            </r>
+            <r>
+              <c><![CDATA[ - att1.htm]]></c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;10768571.1075840256349.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Fri, 3 Dec 1999 16:51:00 -0800 (PST)</c>
+            </r>
+            <r>
+              <c>From: mrslinda@lplpi.com</c>
+            </r>
+            <r>
+              <c>To: kenneth.lay@enron.com</c>
+            </r>
+            <r>
+              <c>Subject: Banking Rep</c>
+            </r>
+            <r>
+              <c>Cc: sally.keepers@enron.com, sherrie@layfam.com</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>Bcc: sally.keepers@enron.com, sherrie@layfam.com</c>
+            </r>
+            <r>
+              <c>X-From: "Linda Lay" &lt;mrslinda@lplpi.com&gt;</c>
+            </r>
+            <r>
+              <c>X-To: Kenneth Lay</c>
+            </r>
+            <r>
+              <c>X-cc: Sally Keepers, "Sherrie Gibson" &lt;sherrie@layfam.com&gt;</c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[Since you left for India, and in case I forget to tell you, I asked to have a ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[new banking rep to replace Howard Williams for LPL Prop & Interiors.  Since I ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[was doing this, both Sally and Sherrie felt it best to have all of our ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[business with one person rather than dealing with two.  So, we will now be ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[dealing with Margaret Barradas who is Howard's superior.  Where James Shelton ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[was a hard act to follow, Howard should be a piece of cake.  Anyone merely ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[pleasant and respectful would be an upgrade to Howard and hopefully our new ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[rep will fill the bill.   Love, L. ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - att1.htm]]></c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;28328720.1075840256377.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Mon, 12 Jun 2000 16:25:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: mrslinda@lplpi.com</c>
+            </r>
+            <r>
+              <c><![CDATA[To: klay@enron.com, poppopindc@aol.com, dherrold@enlineresources.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	nlay@worldnet.att.net, lizard_ar@yahoo.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	marlenen@rowefurniture.com, aka@zdimensional.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	rnegri@mindspring.com, bourneb@umsystem.edu, sharon@travelpark.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	jessi020674@aol.com, jimemerson@hotmail.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	ray.phillips@prodigy.net, phillips_elizabeth_a@lilly.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	juliephillips383@hotmail.com, em418@hotmail.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	hacker383@hotmail.com, moss37@aol.com, sissy@npinet.net, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	bdbranny@aol.com, slgard@greene.xtn.net, msihouston@aol.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	fcrowley@stellarevent.com, lbda1@flash.net, sherrie@layfam.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	jimkaty@aol.com, alkinder@att.net, holly@layfam.com, jlaywp@aol.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	skeeper@enron.com, jessica@lplpi.com, karenwing@aol.com]]></c>
+            </r>
+            <r>
+              <c>Subject: FW: Baby Pate</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>X-From: "Linda Lay" &lt;mrslinda@lplpi.com&gt;</c>
+            </r>
+            <r>
+              <c>X-To: "Kenneth Lay" &lt;klay@enron.com&gt;, "Vearl F. Phillips" &lt;poppopindc@aol.com&gt;, "T. David Herrold" &lt;dherrold@enlineresources.com&gt;, "Natalie G. Lay" &lt;nlay@worldnet.att.net&gt;, "Elizabeth Lay Vittor" &lt;lizard_ar@yahoo.com&gt;, "Marlene H. Negri" &lt;MarleneN@RoweFu</c>
+            </r>
+            <r>
+              <c><![CDATA[X-cc: ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>Dear Family and Friends,</c>
+            </r>
+            <r>
+              <c>Ken and I just cut short our Italy trip with friends to return to Houston</c>
+            </r>
+            <r>
+              <c>for the birth of our 6th grandchild (which is the final one for this round</c>
+            </r>
+            <r>
+              <c>of four pregnancies).  We were happy to return home and I am a very thankful</c>
+            </r>
+            <r>
+              <c>and thrilled grandmother (aka Momie, Mamamia, Mamia, Mia).  This was the</c>
+            </r>
+            <r>
+              <c>first live birth that I have personally witnessed since my last baby, Beau,</c>
+            </r>
+            <r>
+              <c>and it was VERY exhilarating and VERY emotional, as evidenced by the</c>
+            </r>
+            <r>
+              <c>attached photos.  I hope you will enjoy seeing my new grandson "Pate David</c>
+            </r>
+            <r>
+              <c>Herrold" (Pate was Courtney's maiden name) who was born on June 8, 2000 at</c>
+            </r>
+            <r>
+              <c>7:19 p.m.  Pate was 7 lbs, 10 ozs, 20 inches long with a lot of dark curly</c>
+            </r>
+            <r>
+              <c>hair.  I think he looks exactly like David at birth, but time will tell.</c>
+            </r>
+            <r>
+              <c>These photos were taken in the delivery room within the first 15-20 minutes</c>
+            </r>
+            <r>
+              <c>of his birth prior to being cleaned up and returned to the nursery.  He</c>
+            </r>
+            <r>
+              <c>looks pretty darn good for just having arrived into this world with such</c>
+            </r>
+            <r>
+              <c>great force.  So far, he is a VERY calm and good infant just like his Daddy</c>
+            </r>
+            <r>
+              <c>was.  Enjoy!  Big kiss and lots of love, LPL</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>-----Original Message-----</c>
+            </r>
+            <r>
+              <c>From: Beau Herrold [mailto:rherrold@houston.rr.com]</c>
+            </r>
+            <r>
+              <c>Sent: Saturday, June 10, 2000 5:25 PM</c>
+            </r>
+            <r>
+              <c>To: Kirby, Mike; Lay, Linda; Vermeil, Christophe</c>
+            </r>
+            <r>
+              <c>Subject: Baby Pate</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>Pics of Baby Pate (also a couple of Hannah &amp; Nicholas).</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>- Beau</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>note:  the e-mail address Iam sending these from is different from my usual</c>
+            </r>
+            <r>
+              <c>address.  If you reply, please send to</c>
+            </r>
+            <r>
+              <c>beau@layfam.com b/c I do not check this address often.</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_13_cupcake.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_03.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_07_cupcake.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_08_cupcake.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_09_cupcake.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_12_cupcake.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_11A.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_08.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_06A.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_19A.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_20A.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000609_06.jpg]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - 000608_17A.jpg]]></c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;16977370.1075840256403.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Sat, 17 Jun 2000 11:07:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: mrslinda@lplpi.com</c>
+            </r>
+            <r>
+              <c><![CDATA[To: klay@enron.com, vermeil@ev1.net, vermeil@ev1.net, mark.lay@enron.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	nlay@worldnet.att.net, dherrold@enlineresources.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	courtney@lplpi.com, lizard_ar@yahoo.com, jlvittor@mofo.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	beau@rrhinvestments.com, heather@layfam.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	phillips_elizabeth_a@lilly.com, juliephillips383@hotmail.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	ray.phillips@prodigy.net, hacker383@hotmail.com, jessi020674@aol.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	jimemerson@hotmail.com, bourneb@umsystem.edu, sharon@travelpark.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	jlaywp@aol.com, marlenen@rowefurniture.com, aka@zdimensional.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	rnegri@mindspring.com, weegeorgie@earthlink.net, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	kirby@netservice.com.mx, moss37@aol.com, jimkaty@aol.com]]></c>
+            </r>
+            <r>
+              <c>Subject: Informtion Age</c>
+            </r>
+            <r>
+              <c>Cc: poppopindc@aol.com</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>Bcc: poppopindc@aol.com</c>
+            </r>
+            <r>
+              <c>X-From: "Linda Lay" &lt;mrslinda@lplpi.com&gt;</c>
+            </r>
+            <r>
+              <c>X-To: "Lay, Kenneth L." &lt;klay@enron.com&gt;, "Robyn Vermeil" &lt;vermeil@ev1.net&gt;, "Christophe Vermeil" &lt;vermeil@ev1.net&gt;, "Mark K. Lay" &lt;Mark.Lay@enron.com&gt;, "Natalie G. Lay" &lt;nlay@worldnet.att.net&gt;, "T. David Herrold" &lt;dherrold@enlineresources.com&gt;, "Courtne</c>
+            </r>
+            <r>
+              <c>X-cc: "Vearl F. Phillips" &lt;poppopindc@aol.com&gt;</c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>Dear Family,</c>
+            </r>
+            <r>
+              <c>As you can see below, at 90 years young, Daddy (aka Pop-Pop) has his own</c>
+            </r>
+            <r>
+              <c>e-mail address and can be reached online.  I am sure that he would love to</c>
+            </r>
+            <r>
+              <c>hear from you from time-to-time.  I'm sure he would especially like to be</c>
+            </r>
+            <r>
+              <c>updated with recent photos of you and your families...me too!  If you have</c>
+            </r>
+            <r>
+              <c>any other family members e-mail addresses, let me know.  Big Kiss.  Love,</c>
+            </r>
+            <r>
+              <c>Linda/Mom/Aunt Linda</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>-----Original Message-----</c>
+            </r>
+            <r>
+              <c>From: Poppopindc@aol.com [mailto:Poppopindc@aol.com]</c>
+            </r>
+            <r>
+              <c>Sent: Tuesday, June 13, 2000 6:08 PM</c>
+            </r>
+            <r>
+              <c>To: mrslinda@lplpi.com</c>
+            </r>
+            <r>
+              <c>Subject: Re: Test Run</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>your message came through ok i  will send you more later.</c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;31090991.1075840256451.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Sun, 13 Aug 2000 07:24:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: nlay@att.net</c>
+            </r>
+            <r>
+              <c>To: mrslinda@lplpi.com</c>
+            </r>
+            <r>
+              <c>Subject: Christmas 2000</c>
+            </r>
+            <r>
+              <c><![CDATA[Cc: sally.keepers@enron.com, mark.lay@enron.com, klay@enron.com, jlaywp@aol.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	lizard_ar@yahoo.com]]></c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=ANSI_X3.4-1968</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c><![CDATA[Bcc: sally.keepers@enron.com, mark.lay@enron.com, klay@enron.com, jlaywp@aol.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	lizard_ar@yahoo.com]]></c>
+            </r>
+            <r>
+              <c>X-From: "Natalie Lay" &lt;nlay@att.net&gt;</c>
+            </r>
+            <r>
+              <c>X-To: "Linda P. Lay" &lt;mrslinda@lplpi.com&gt;</c>
+            </r>
+            <r>
+              <c>X-cc: &lt;Sally.Keepers@enron.com&gt;, "Mark Lay" &lt;Mark.Lay@enron.com&gt;, "Ken Lay" &lt;klay@enron.com&gt;, &lt;Jlaywp@aol.com&gt;, "Elizabeth Lay" &lt;lizard_ar@yahoo.com&gt;</c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>Linda,</c>
+            </r>
+            <r>
+              <c>?</c>
+            </r>
+            <r>
+              <c><![CDATA[Mark, Zach and I would like to come out to Aspen  for? Christmas on December ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[26th and stay until January 2nd.? We would  like to stay at the old house in ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[the front bedroom or the cottage.? I am  looking into flight reservations ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[right now and would like to know if this is  o.k. so I can make definite ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[plans.? We would also like to ride back with  you and Ken if you will be ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[flying back to Houston on January 2nd.? If you  could please let me know ASAP ]]></c>
+            </r>
+            <r>
+              <c>that would be great.</c>
+            </r>
+            <r>
+              <c>?</c>
+            </r>
+            <r>
+              <c>xoxo</c>
+            </r>
+            <r>
+              <c>Natalie</c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;25326891.1075840256428.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Tue, 4 Jul 2000 11:05:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: nlay@att.net</c>
+            </r>
+            <r>
+              <c><![CDATA[To: yao.apasu@enron.com, vcarlson@pepsi.com, susan.weison@enron.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	sharon@travelpark.com, sally.keepers@enron.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	rosalee.fleming@enron.com, tracie.rivali@compaq.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	poppopindc@aol.com, walden@epcorp.net, kristin@pjd.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	lmcke@flash.net, reid@speedshore.com, klay@enron.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	jmount@singleweb.com, jlvittor@mofo.com, gjbenton@email.msn.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	gregkayyes@aol.com, girlgonesouth@aol.com, crossjr@prodigy.net, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	coachcfb@gdinet.com]]></c>
+            </r>
+            <r>
+              <c>Subject: Fw: Zachary Fourth of July Pictures</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>X-From: "Natalie Lay" &lt;nlay@att.net&gt;</c>
+            </r>
+            <r>
+              <c>X-To: &lt;Yao.Apasu@enron.com&gt;, "Vanessa Carlson" &lt;vcarlson@pepsi.com&gt;, &lt;Susan.Weison@enron.com&gt;, "Sharon Lay" &lt;sharon@travelpark.com&gt;, &lt;Sally.Keepers@enron.com&gt;, &lt;Rosalee.Fleming@enron.com&gt;, "Rivali, Tracie" &lt;Tracie.Rivali@COMPAQ.com&gt;, &lt;Poppopindc@aol.com&gt;</c>
+            </r>
+            <r>
+              <c><![CDATA[X-cc: ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>----- Original Message -----</c>
+            </r>
+            <r>
+              <c>From: Mark Lay &lt;mlay@houston.rr.com&gt;</c>
+            </r>
+            <r>
+              <c>To: David Herrold &lt;dherrold@enlineresources.com&gt;; Elizabeth Lay</c>
+            </r>
+            <r>
+              <c>&lt;lizard_ar@yahoo.com&gt;; Judie Lay &lt;jlaywp@aol.com&gt;; Linda Lay</c>
+            </r>
+            <r>
+              <c>&lt;mrslinda@lplpi.com&gt;; Natalie Lay &lt;nlay@att.net&gt;; Robert "Beau" Herrold</c>
+            </r>
+            <r>
+              <c>&lt;beau@lafam.com&gt;; Robyn Vermeil &lt;vermeil@ev1.net&gt;</c>
+            </r>
+            <r>
+              <c>Sent: Tuesday, July 04, 2000 5:06 PM</c>
+            </r>
+            <r>
+              <c>Subject: Zachary Fourth of July Pictures</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c>&gt; This kid will forever be known for the outfits we force him to wear before</c>
+            </r>
+            <r>
+              <c>&gt; he is able to protest.</c>
+            </r>
+            <r>
+              <c>&gt;</c>
+            </r>
+            <r>
+              <c>&gt; Love,</c>
+            </r>
+            <r>
+              <c>&gt; Natalie and Mark</c>
+            </r>
+            <r>
+              <c>&gt;</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[ - July 4, 2000 Zach 1.gif]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - July 4, 2000 Zach 2.gif]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - July 4, 2000 Zach 3.gif]]></c>
+            </r>
+            <r>
+              <c><![CDATA[ - July 4, 2000 Zach 4.gif]]></c>
+            </r>
+            <r>
+              <c>Message-ID: &lt;3128786.1075840256474.JavaMail.evans@thyme&gt;</c>
+            </r>
+            <r>
+              <c>Date: Tue, 19 Sep 2000 03:26:00 -0700 (PDT)</c>
+            </r>
+            <r>
+              <c>From: sally.keepers@enron.com</c>
+            </r>
+            <r>
+              <c><![CDATA[To: vermeil@ev1.net, nlay@worldnet.att.net, dherrold@enlineresources.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	lizard_ar@yahoo.com, beau@layfam.com, mrslinda@lplpi.com, ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[	kenneth.lay@enron.com]]></c>
+            </r>
+            <r>
+              <c>Subject: Aspen Security Codes</c>
+            </r>
+            <r>
+              <c>Mime-Version: 1.0</c>
+            </r>
+            <r>
+              <c>Content-Type: text/plain; charset=us-ascii</c>
+            </r>
+            <r>
+              <c>Content-Transfer-Encoding: 7bit</c>
+            </r>
+            <r>
+              <c>X-From: Sally Keepers</c>
+            </r>
+            <r>
+              <c>X-To: vermeil@ev1.net, nlay@worldnet.att.net, dherrold@enlineresources.com, lizard_ar@yahoo.com, beau@layfam.com, mrslinda@lplpi.com, Kenneth.lay@enron.com</c>
+            </r>
+            <r>
+              <c><![CDATA[X-cc: ]]></c>
+            </r>
+            <r>
+              <c><![CDATA[X-bcc: ]]></c>
+            </r>
+            <r>
+              <c>X-Folder: \Kenneth_Lay_Dec2000\Notes Folders\Family</c>
+            </r>
+            <r>
+              <c>X-Origin: LAY-K</c>
+            </r>
+            <r>
+              <c>X-FileName: klay.nsf</c>
+            </r>
+            <r>
+              <c />
+            </r>
+            <r>
+              <c><![CDATA[Per Margie, the access code for the #2 house is 2001, for the #3 house it is ]]></c>
+            </r>
+            <r>
+              <c>20011.</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="738" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="8" />
+          <Fields>
+            <Field name="Dates" />
+            <Field name="Days from Last Email" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Date: Mon, 25 Oct 1999 16:06:00 -0700 (PDT)</c>
+              <c />
+            </r>
+            <r>
+              <c>Date: Tue, 9 Nov 1999 07:52:00 -0800 (PST)</c>
+              <c>15</c>
+            </r>
+            <r>
+              <c>Date: Fri, 3 Dec 1999 16:51:00 -0800 (PST)</c>
+              <c>24</c>
+            </r>
+            <r>
+              <c>Date: Mon, 12 Jun 2000 16:25:00 -0700 (PDT)</c>
+              <c>192</c>
+            </r>
+            <r>
+              <c>Date: Sat, 17 Jun 2000 11:07:00 -0700 (PDT)</c>
+              <c>5</c>
+            </r>
+            <r>
+              <c>Date: Tue, 4 Jul 2000 11:05:00 -0700 (PDT)</c>
+              <c>17</c>
+            </r>
+            <r>
+              <c>Date: Sun, 13 Aug 2000 07:24:00 -0700 (PDT)</c>
+              <c>40</c>
+            </r>
+            <r>
+              <c>Date: Tue, 19 Sep 2000 03:26:00 -0700 (PDT)</c>
+              <c>37</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="54" width="324" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="4" />
+          <BG_Image>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</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="438" y="66" width="468" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Weekly Challenge #134</Text>
+          <Font name="Microsoft Sans Serif" size="16.2" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="66" y="114" width="660" height="204" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Objective
+
+You have been tasked with finding the amount of days that elapsed from one email to another. Please provide the amount of days between emails (without regard for time) in chronological order according to the data in the "Date:" record for each email.
+
+
+Summary of Data
+
+You have 8 emails that were retrieved from Kenneth Lay's computer in a folder named "Family." All 8 are in the same Text Input tool and each contains the date of the email.
+
+
+
+Hint
+
+Be sure to the get emails in chronological order and do not worry about the time associated with the email - only the date.</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="426" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Parsed</InputFieldName>
+          <Format>dd Mon yyyy</Format>
+          <OutputFieldName>Formatted</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Parsed From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="198" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>Contains([Field_1],"Date:")</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>Contains</Operator>
+            <Field>Field_1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-09-24 22:58:51</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>Date:</Operand>
+              <StartDate>2018-09-24 22:58:51</StartDate>
+              <EndDate>2018-09-24 22:58:51</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Contains([Field_1],"Date:")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+        <Position x="318" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Field_1</Field>
+          <RegExExpression value="(\d+\s[a-zA-Z]+\s\d{4})" />
+          <CaseInsensitve value="True" />
+          <Method>ParseComplex</Method>
+          <Replace expression="">
+            <CopyUnmatched value="True" />
+          </Replace>
+          <ParseSimple>
+            <SplitToRows value="False" />
+            <RootName />
+            <NumFields value="3" />
+            <ErrorHandling>Warn</ErrorHandling>
+          </ParseSimple>
+          <ParseComplex>
+            <Field field="Parsed" type="V_WString" size="254" />
+          </ParseComplex>
+          <Match>
+            <Field>Field_1_Matched</Field>
+            <ErrorUnmatched value="False" />
+          </Match>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Parse:
+(\d+\s[a-zA-Z]+\s\d{4})</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="810" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\SHOKAT~1\AppData\Local\Temp\1\Engine_1764_fec06e90b972424b84d1d13e7e881c88_\Engine_11452_49f595b006cf456a8d6f0eb3b5e93366_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="630" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>Field_1</UpdateField_Name>
+          <CreateField_Name>Days from Last Email</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>DateTimeDiff([Formatted],[Row-1:Formatted],"days")</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DateTimeDiff([Formatted],[Row-1:Formatted],"days")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="534" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="Formatted" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Formatted - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="726" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Field_1" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="True" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>challenge_134_start_file</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
