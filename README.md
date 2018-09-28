@@ -1,11 +1,26 @@
 # AlteryxWeeklyChallengeSolutions
 This repo contains solutions to Alteryx Weekly Challenges posted on Alteryx Community page.
 
+# Challenge 129:
+You are hosting a lunch event and you have 5 possible locations. Your task is to choose the location that minimizes the overall cost (accounting for the benefit) to the company and report the cost.
+
+Assumptions
+- A person will only come if the location is under 10 miles from their location.
+- The benefit of a person coming to the event is $20.
+- The cost of a "missed opportunity" (people you must turn away after capacity is reached) is $5. Note that this only applies to those under 10 miles from the location.
+
+Data
+Locations: the 5 potential locations, the fixed price, and the capacity
+Customers: the location of your customers and the count of employees that would come to your event
+
 # Challenge 130:
-Objective: You have a source system that doesn't seem to be working quite as expected. The system will frequently take any given word and duplicate it within a string. You job is to clean it up! Below we have a few sample phrases that are indicative of the system's problem. Find all words that have duplicate consecutive words and reduce the duplication to a single word again! 
+Objective:
+You have a source system that doesn't seem to be working quite as expected. The system will frequently take any given word and duplicate it within a string. You job is to clean it up! Below we have a few sample phrases that are indicative of the system's problem. Find all words that have duplicate consecutive words and reduce the duplication to a single word again! 
 
 # Challenge 131:
-Objective: “Think like a CSE” series. The Case: A co-worker is running into the R error “Append Cluster: Error: cannot allocate vector of size 7531.1 Gb“ in a workflow that uses a couple of the Predictive Clustering Tools. This error is causing the workflow to stop running before completing.
+Objective:
+“Think like a CSE” series. 
+The Case: A co-worker is running into the R error “Append Cluster: Error: cannot allocate vector of size 7531.1 Gb“ in a workflow that uses a couple of the Predictive Clustering Tools. This error is causing the workflow to stop running before completing.
 Your Goal: Identify the root cause of the issue, and develop a solution or workaround to help your co-worker get past this error and finish running the workflow. 
 Asset Description: Your co-worker can’t share the file with you due to client privacy concerns, but it is about 7 GB in size (3 million records and 30 fields). Using only the provided screenshots, dummy data of your own design, and sheer willpower, can you develop a possible resolution?
 
