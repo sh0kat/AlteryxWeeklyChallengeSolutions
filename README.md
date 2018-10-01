@@ -1,6 +1,9 @@
 # AlteryxWeeklyChallengeSolutions
 This repo contains solutions to Alteryx Weekly Challenges posted on Alteryx Community page.
 
+# Challenge 128:
+A group of friends are playing their favorite game. Not being a bunch of data analysts and understanding the importance of inputting data in an easy to work with way, they devised an incredibly inefficient way to keep score of their game! In the game, there is 5 rounds of play and 5 players (a,b,c,d,e - first letter of their names). For each lowercase letter under their initial, 1 point is awarded. For each uppercase letter, 1 point is subtracted from their overall score. As the only right and fair arbiter, they call you in to use Alteryx to figure out each players score for each round and their respective totals. Who won?
+
 # Challenge 129:
 You are hosting a lunch event and you have 5 possible locations. Your task is to choose the location that minimizes the overall cost (accounting for the benefit) to the company and report the cost.
 
