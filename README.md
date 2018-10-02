@@ -41,3 +41,10 @@ Researchers need to understand which NASA research facility is most optimally lo
 # Challenge 134:
 
 You have been tasked with finding the amount of days that elapsed from one email to another. Please provide the amount of days between emails (without regard for time) in chronological order according to the data in the "Date:" record for each email.
+
+# Challenge 135:
+
+There are 1000 lockers in a high school with 1000 students. The problem begins with the first student opening all 1000 lockers; the second student closes lockers 2,4,6,8,10 and so on to locker 1000; the third student changes the state (opens lockers closed, closes lockers open) on lockers 3,6,9,12,15 and so on; the fourth student changes the state of lockers 4,8,12,16 and so on. This goes on until
+every student has had a turn.
+
+When all 1,000 students have finished, which locker doors are open?
