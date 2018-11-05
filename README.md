@@ -3,6 +3,12 @@ This repo contains solutions to Alteryx Weekly Challenges posted on Alteryx Comm
 
 # Challenge 135:
 
+The Case: Mr. Boddy was recently on a trip to London when he unfortunately met with his untimely demise... But whodunnit?? In the spirit of the game Clue (a murder mystery game originally called Cluedo, created by Anthony E Pratt from Birmingham, England in 1949), follow the clues to figure out who committed this dastardly deed, where the crime was committed, and which weapon was used!
+
+*** Once you have all 3 answers, enter your answers into the Clue! Macro to see if your sleuthing is correct! You can also spot check any of your 3 answers in the macro as you go along... *** 
+
+# Challenge 135:
+
 There are 1000 lockers in a high school with 1000 students. The problem begins with the first student opening all 1000 lockers; the second student closes lockers 2,4,6,8,10 and so on to locker 1000; the third student changes the state (opens lockers closed, closes lockers open) on lockers 3,6,9,12,15 and so on; the fourth student changes the state of lockers 4,8,12,16 and so on. This goes on until
 every student has had a turn.
 
