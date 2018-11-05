@@ -1,0 +1,3368 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.2">
+  <Nodes>
+    <Node ToolID="75">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="126" width="660" height="96" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Mr. Boddy was recently on a trip to London when he unfortunately met with his untimely demise... But whodunnit?? In the spirit of the game Clue (a murder mystery game originally called Cluedo, created by Anthony E Pratt from Birmingham, England in 1949), follow the clues to figure out who committed this dastardly deed, where the crime was committed, and which weapon was used!
+
+*** Once you have all 3 answers, enter your answers into the Clue! Macro to see if your sleuthing is correct! You can also spot check any of your 3 answers in the macro as you go along... ***</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="76">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="55" y="54" width="324" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="4" />
+          <BG_Image>iVBORw0KGgoAAAANSUhEUgAAAXoAAAA0CAIAAAAL52RvAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScQAAEnEB89x6jgAAABJ0RVh0U29mdHdhcmUAR3JlZW5zaG90XlUIBQAADRxJREFUeF7tnd+OFccRh/0GzhvEb4DfwH4D+w3sN0jewFxxhxIpcGEJCS4s+WKJsYR9w14kYq8WIWE2CgqKMVqL4FUQ8kIisCVL5NtTvZXa6j/TZ2fm7J51fWqNTtdU93QPU7+pnjNneetNEATBSgi5CYJgRYTcBEGwIk5Gbv7y5D83Hu2nSrAOPHny5O7du7u7u6keBMuzarl5/OLn97/49q0/fUNJpmAdCLkJxrNSubn37NVvPv2baM2ycvPjT7+c395DqhCsZApWSMhNMJ6Vys0n2z+o1iwlN1anWIgla7BCQm6C8ayH3Lz96Y62Crk5EUJugvGsh9zYViE3J0LITTCekJugi5CbYDwhN0EXITfBeEJugi5CboLxhNwEXYTcBOMZkJsff/rlj988+3jz+/e/+Na+MkN59/OH2Nl779mr5D3EycoN4zy/vff72/9iLmz5/OWjF2lfMETITTCeAbn54KvvbKjXyjvXHhDAgy/gLSU3f7j3b3SBgq7ZVmgcSmHLoABdffDcaaUW7PSAqibXEuz965P/Skmmxe8wRLlEvJJ1AbvUv92zok2sdvNZ+0mmCnaEM70GGXITjGdAbj7a3HXx2SiEbmpWYSm5sZ7t8t6f/5naZBCHTq2KBZ+GLljNRQTxRGLUIiW5LrB2TmCy1kEN1f+31/6erEffNvrd7SfJmuHm2HPEYxByE4xnQG6463LRE8+EHGJhCxYbD1LaiQatrHOyVrCe7dKQm3Of/yN3luLsRGxqk2GdmXWeKLkBWHkalGCwg+QUJesiv1M7pXZuUSLrttbZzf7+PocAPiRTk9evX4s/JFOdTjdFBsMhUn3Bsp3s7e25TsTCNtVLFH0GW4GM2Z09LNYo1R7Ef0LGPip2CjKh3ORKUSs2RC3ucFRtCsNnF6i1fnJtcsUlFDce7du97d++ow7W2YmFPQmsWPMUjBOuDpTaFMYzq9wQCTdv3rx8+fIFA9XNzU0X7QLGra2tK1euJNdDsOzs7CSnDPG5detWqjd5+PCh+Lspi5HRpnqT27dvi7/t5LPPPsPCNtVLFH0WPV24f/9+qpeQI7JN9QXSUI1S7UFOwsWLFxsyxy5xvnPnTjLVGSs37nKfUG6UpQ6huDAmU0g7jmIVh3hO1qPkckNah8QwknvPXrHNVYA1kTq3Vzc2hXFZEtC/7qW4JRXHZcy6F21KO2ZgPrkhfuR6LcK1zkWfXBdwfWNMuxcQltaC6BTDI+2+cGEwR4BLly6Jc1FuYPBUoIk6qgnlph3808oNzoOjHXSwnFm5sTpiH4g4iFh1oxQ7d3JDVNsHukVc3pTrkWKF6eqD58lqcCfNjtAdZXBUY5hJbrglLi7sA4gHG0gciyQC+8bGRjId1Rr2Wn9SJHqQvcWYlFYwGBtWAWtyM9iJRL4wodwAelpM+kAOqsoiSCtnVBibOBT/cTmrsreYVemJaiig5czKjX2uVEttBKsmjDBZDdaBbnui2uVWRR0Bm7zQc02Viksqd1qKI5+QOeSGa1Qu1sYdG7sNLV1AuZRHwV8UB89kOgSjSlVjIpqVSILjPBetUz+NdU2jk5FyI93WVnOTyw1In6xtncbpHDvXp3A25ebYo/rgq++S1WDlJl/v1LAaUewWbHrSWHO56ciSyvZPitRIoCZhDrmRoILOe6PeS2uRI2j8ODkQI7HBluBJ1gyJLtxkeG7KB10sBsC20YnkZWzzTopS4ij6YAE9CUWxk4G58yP+tZOmp6vxjyui6XqQY6E4ToYanE25cd/pJGsFO6qimhxPbuzX25SiHNgUrD0vt2768OvHttpzTkYyudxoll67UedIatNzfTfCVe/JxXCVvXII6aQoN9pJMYZlajjwIe+kODZH0QcL8EG0DHKZFglwoxLn4lChR27UhxmJRf/5amlmkbMpN2QKtkmyVphJbtAXbUXJ11P2C6zG0yWB3uxTHlsk2ZmbyeVG79Kd1ysRLv498qSPhFJ9gVoat2WJZInMXCngoItFJzL+Y3RSlBJH0QcL8IEjivLmCxyZmlOWRbtRcgMbGxv4XL9+Xao9s8jpkhuu9S8fvTi/vcdNVd6j1eJeojslcmMFguLG7Ir9cmdCuQGrehwoWQ+xe3skw50HKStYRgmTy40EBnSupDQqamFjKYaQWORzcXUgd2x2SQxLRLkpH3RxtBP35EJTm1onPYFa9MEC8lkfUWn8C3JW3bwW7cbKDfOSI+KmTTTZ6WRAbh6/+Pnjze/dJd4op1Nu+su0cuNewLHv1Ljcx71uU8MtqSgr+w8t5pObVB9CL/Fa2FjU2Q5YLPJZcxMbMHID10VWrhRw0MVhJ3oU24m00pdQ8k6KUuIo+mCBVKk8yZKz6k5R7mYpnqsikjMyKhlezz+EoyU35P+1nxrVyhxy4x6CzCo3xee1x5YbsCsg+wWZndS57vdlnPL2vLI8FfPJTecdUqOi5yovhpBYUuUwpHVpJk1IWKQK4uCmfNBF1ommGD2diIVtqpco+mCBVFkgj71B+5ez6k6R+NTOm4wZ3EyL6DeDmgMuRVVuuN86rSEq0AsKd1Suey3Wh2pqX+J4cuNatQ8hWIFg2DrUwZLaH2WM3NjB299J2D7zxzo1mIu2kkL/ad/MzCc3nX2yfBD/HrmR12HBaplYUsWEmazmarrghrdo8f9OdFTiJk00P4Jat2xTvUTRBwukyiHu8fnccqMndqknxEpVbuwPf9ovm6gbpRaxwonIzfgUYIzcuBdwZNHkjJ0PX9x50DLr233K5HKjF26PfAjyrCR/oSZHbvs2y4DF0Y6Eq6yeiGpZmLjwlph3Uz7o4mgn8mAYZ4nbwU70oKleQlo5HyyQKoegp/JIRU7L3HKzlHNOVW7sBd1+Tc56nkK5oSTrcRkjN2Cby5m039M3Xrex2BcCXWn8uHRCJpcbkDhpvL3ikMAevNa5z0vPulASpG2qLCBWxSj+7qF1rhSwcPed6ETYOv+8E1EEmqR6CRHWomqkikGFG5FdS7khpO0F3Y7wfs+VyY1rMvK7m5FyYx/TyM+y7Jqo81mvbUKy6V4sYr7JbzbmkBuJDahFgkPVgTt548GBqpJdSYEYU+UQffzhtAk65QZ0Ii4fgbwTXX/ZNZdFQ9rJnxhT5Sg6C1lbrbfcJGsF67mU3BxvEdEjN278/Q9HioyUG6ZpX+ez6jP4uo3gxEVSJDsqytxLqjnkRtMQqP2emECyQqCBTVw5NQE6vH79ujjkHYo9VQ6RMUDeW7/cLNuJGPHPzycSg529uXIdHLgiNyB9CustN+0I7/c8hnCAC7aedMB9zZy/87IUI+UG3GuHWnpet3HP7HUA2K2Kzb2kmkNuQKMLWIygERxC4LMsT1wYa/ICiMvW1harCbbYtas8VQHZlSoGxAJSxdAvN7BUJ0xHh8oUdnZ2FjPe3dzcFCN7XWoDsitVMji69rlmcuOeFDSyA/fUs60g9sZO6Xxs4bSvs5WL8DEJzni5cVPQIk+O29ijoy+2STHrmYmZ5AaIK1kCFCFc88BjGSJPN3Kw1xYp4pAqHSwlNzWKnUBj1kwhnzLI3lQpoVqwZnID9s75zrUHeWAgSfkbgNxj5e8Hk1DkEZ4/78RTeiYfkReX80WBUzSK/l1ktv2tcCsu3xqHFsbLDeQ/QTjX8bqNE5T8GY0dG0mQnJY5mE9uBDIUUhKCk1s08cYHllHtw9GEENrY2MCZLZ+xpH0lcINU6YAB4O8if5JOFJSRkYvuMGs+17QSeg7NGcg7kYa1nhmbONQGaVnKOacqN/kLrCiI/AcGH3792L74XyvFb6BrP/zRMvib7GIpLiXc2k0KnjIR+UGGnUhtPTKJ3OSDGUy40A67jCrKk1PVkcvGBnPLTfBroCo33PMHpYGCT0ML8nyhtqzQUhSpPC3KS3I9Su2hSa0U059J5CbPtorHsrgTW0u+nJDNtKQKuQnGU5Ub4PrOX2O1hQyImCGQ7MpLi3vQoHBXL/pLqf1pmBuP9hutGguTPE1rlOKAJ5EbsP0MPoFyz7nQlLSjhP1nmmlJFXITjKclNwLXPRKgmQ4xT9hwC7U3Zz4TP+rD1U+QNy56/OmBbulKOqQQUbUbuFBsxYEGv6tiJAyvoVaMvDFgBiZt2Q6ugBowcj3i4JiZqUxQ5pisFThv6kxpn8bjEXITjGdYbs4SxCFxjnxIIaRZ3M2RC+RwFNUaZCtZ14eQm2A8vy65OUHsmm4wWzmFhNwE4wm5WQUsA+13TKvJp6Yl5CYYT8jNKmDhplrz3oiHzSdIyE0wnpCb2bn37JVNbdovXp9aQm6C8YTczAhrqPPbe1Zr1jS1gZCbYDwhNxODoCAr7x79i/FS3q7/x3Wnn5CbYDwhNxPjJEYLWjPH6zArI+QmGE/IzcQ4lZHy0ebu+uY1QshNMJ6Qm4nR957ZfrL9w9UHz9fxa++cly9fPn36NP/zUUHQT8hNEAQrIuQmCIIVEXITBMFKePPmf4GyDTAL6GK4AAAAAElFTkSuQmCC</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="77">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="415" y="70" width="288" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Weekly Challenge #136</Text>
+          <Font name="Microsoft Sans Serif" size="16.2" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="81">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="294" width="504" height="276" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[
+Mr. Boddy was discovered around 3pm (15:00) on 7 October 2018.
+
+Unfortunately, Mr. Boddy was a bit of a scoundrel and had previously wronged 6 different people in town (gambling debts, excessive bar tabs, ruined honeymoons... you name it!). According to his text message history, he was scheduled to meet up with all 6 of these people at some point during his stay in London. Using the information in these text messages, determine the date and time of each proposed rendezvous – the prime suspect will be the one with a meeting scheduled to occur closest to (and before) the date and time of the murder.
+
+INPUTS: 
+1.     Suspects’ Text Message Data 
+2.     Phone Directory]]></Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="594" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="7" />
+          <Fields>
+            <Field name="Name" />
+            <Field name="Phone Number" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Bennett Boddy</c>
+              <c>+1 555 867 5309</c>
+            </r>
+            <r>
+              <c>Willow White</c>
+              <c>+44 20 7946 0686</c>
+            </r>
+            <r>
+              <c>Scarlett Smith</c>
+              <c>+44 20 7946 0540</c>
+            </r>
+            <r>
+              <c>Paul Plum</c>
+              <c>+44 20 7946 0055</c>
+            </r>
+            <r>
+              <c>Paulina Peacock</c>
+              <c>+44 20 7946 0130</c>
+            </r>
+            <r>
+              <c>George Green</c>
+              <c>+44 20 7946 0356</c>
+            </r>
+            <r>
+              <c>Matthew Mustard</c>
+              <c>+44 20 7946 0801</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Phone Directory</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="594" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="94" />
+          <Fields>
+            <Field name="MessageDate" />
+            <Field name="ID" />
+            <Field name="Message From" />
+            <Field name="Message To" />
+            <Field name="Message" />
+          </Fields>
+          <Data>
+            <r>
+              <c>02/10/2018 10:37am</c>
+              <c>26116029</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>A little birdie told me you are going to be on this side of the pond this week, you rogue</c>
+            </r>
+            <r>
+              <c>02/10/2018 10:38am</c>
+              <c>125315035</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>I sincerely hope you are planning to pay me back for last time</c>
+            </r>
+            <r>
+              <c>02/10/2018 10:46am</c>
+              <c>106072568</c>
+              <c>15558675309</c>
+              <c>442079460540</c>
+              <c>Heh, why yes, I am going to be in town… :)</c>
+            </r>
+            <r>
+              <c>02/10/2018 10:48am</c>
+              <c>23474531</c>
+              <c>15558675309</c>
+              <c>442079460540</c>
+              <c>You free for a drink? I hear The Conservatory Bar has a splendid view of the city…</c>
+            </r>
+            <r>
+              <c>02/10/2018 11:08am</c>
+              <c>150391236</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>So you can stick me with the bill again and duck out the back door?? ABSOLUTELY NOT. &gt;:(</c>
+            </r>
+            <r>
+              <c>02/10/2018 11:09am</c>
+              <c>55045190</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>But I will meet you. I'm performing at Queen Elizabeth Hall this weekend.</c>
+            </r>
+            <r>
+              <c>02/10/2018 11:33am</c>
+              <c>132410554</c>
+              <c>15558675309</c>
+              <c>442079460540</c>
+              <c>When?</c>
+            </r>
+            <r>
+              <c>02/10/2018 11:44am</c>
+              <c>730429</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>06 Oct 18 at 14:00</c>
+            </r>
+            <r>
+              <c>02/10/2018 11:45am</c>
+              <c>35628755</c>
+              <c>442079460540</c>
+              <c>15558675309</c>
+              <c>Bring me my money, or I swear, all the Queen's horses and all the Queen's men won't be able to put you back together again...</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:13am</c>
+              <c>161145769</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c><![CDATA[Hey buddy!! You in town this week? ]]></c>
+            </r>
+            <r>
+              <c>05/10/2018 11:15am</c>
+              <c>50918749</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>You're still at the National Poetry Library, right? I'll swing by and say hello!</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:16am</c>
+              <c>77327538</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Maybe we could check out that billiards place again, Shades Snooker club?</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:37am</c>
+              <c>84204240</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>Not interested.</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:59am</c>
+              <c>172627695</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Awww, come on. You're not still upset about the World Cup Finals are you?</c>
+            </r>
+            <r>
+              <c>05/10/2018 12:15pm</c>
+              <c>120545262</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>Yes</c>
+            </r>
+            <r>
+              <c>05/10/2018 12:31pm</c>
+              <c>100780274</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>That was an accident! How was I supposed to know that it was a $10,000 bottle of liquor?</c>
+            </r>
+            <r>
+              <c>05/10/2018 12:53pm</c>
+              <c>43563438</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>Check the price list, perhaps?</c>
+            </r>
+            <r>
+              <c>05/10/2018 12:57pm</c>
+              <c>6463028</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Well surely, they should have known I meant the cheaper one just below it. I still blame that waiter.</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:01pm</c>
+              <c>27544734</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>You know what? I changed my mind.</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:02pm</c>
+              <c>44959878</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>Let's meet up</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:03pm</c>
+              <c>100428063</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>07 Oct 18 at 13:30</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:10pm</c>
+              <c>162123026</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Great! Where to?</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:24pm</c>
+              <c>10547306</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>There's a $10,000 tab with your name on it at that bar in Lambeth.</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:25pm</c>
+              <c>169962652</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>And unfortunately, the exchange rate is not currently in your favour.</c>
+            </r>
+            <r>
+              <c>05/10/2018 01:48pm</c>
+              <c>109936746</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>…</c>
+            </r>
+            <r>
+              <c>05/10/2018 02:02pm</c>
+              <c>77086856</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Oh shoot, looks like I'm already booked for something at that time. Rain check?</c>
+            </r>
+            <r>
+              <c>05/10/2018 02:26pm</c>
+              <c>93394175</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>Riiiiiight</c>
+            </r>
+            <r>
+              <c>05/10/2018 02:27pm</c>
+              <c>29844314</c>
+              <c>442079460055</c>
+              <c>15558675309</c>
+              <c>If you're not there, I WILL track you down. You do know I have a whole realm of academic and research resources at my disposal, right?</c>
+            </r>
+            <r>
+              <c>05/10/2018 02:34pm</c>
+              <c>29422228</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>:|</c>
+            </r>
+            <r>
+              <c>05/10/2018 02:35pm</c>
+              <c>150381595</c>
+              <c>15558675309</c>
+              <c>442079460055</c>
+              <c>Lambeth it is.</c>
+            </r>
+            <r>
+              <c>07/10/2018 07:59am</c>
+              <c>135933360</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c><![CDATA[Morning, Captain! ]]></c>
+            </r>
+            <r>
+              <c>07/10/2018 08:16am</c>
+              <c>36868850</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>You know I don't like being called that. Also, it's Colonel.</c>
+            </r>
+            <r>
+              <c>07/10/2018 08:39am</c>
+              <c>195961104</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c><![CDATA[Yessir!! ]]></c>
+            </r>
+            <r>
+              <c>07/10/2018 08:57am</c>
+              <c>70682780</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>What do you want now?</c>
+            </r>
+            <r>
+              <c>07/10/2018 09:18am</c>
+              <c>115582972</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c>Can't a guy just check in on a friend?</c>
+            </r>
+            <r>
+              <c>07/10/2018 09:29am</c>
+              <c>162742484</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>No.</c>
+            </r>
+            <r>
+              <c>07/10/2018 09:30am</c>
+              <c>152932046</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>And we're not friends</c>
+            </r>
+            <r>
+              <c>07/10/2018 09:39am</c>
+              <c>5680775</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c>Okay ouch. I probably deserve that…</c>
+            </r>
+            <r>
+              <c>07/10/2018 09:50am</c>
+              <c>35873481</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>You do.</c>
+            </r>
+            <r>
+              <c>07/10/2018 10:02am</c>
+              <c>84295052</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c><![CDATA[Would it help if I paid back some of that last little spot of money I owe you? ]]></c>
+            </r>
+            <r>
+              <c>07/10/2018 10:23am</c>
+              <c>9853857</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>If you are referring to the 3000 quid you owe me for New Years Eve last year… then yes I want my money, but no, it won't help.</c>
+            </r>
+            <r>
+              <c>07/10/2018 10:34am</c>
+              <c>54314029</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c><![CDATA[Oooo, tough crowd! Alright, how about I meet you at the Disappearing Dining Club, for old time's sake? ]]></c>
+            </r>
+            <r>
+              <c>07/10/2018 10:35am</c>
+              <c>4701315</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c>08 Oct 18 at 20:00</c>
+            </r>
+            <r>
+              <c>07/10/2018 10:36am</c>
+              <c>115417055</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c>Work for you?</c>
+            </r>
+            <r>
+              <c>07/10/2018 11:00am</c>
+              <c>47203696</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>As long as you disappear immediately afterwards? Fine.</c>
+            </r>
+            <r>
+              <c>07/10/2018 11:09am</c>
+              <c>38731557</c>
+              <c>15558675309</c>
+              <c>442079460801</c>
+              <c>It's a date! ;)</c>
+            </r>
+            <r>
+              <c>07/10/2018 11:33am</c>
+              <c>10684511</c>
+              <c>442079460801</c>
+              <c>15558675309</c>
+              <c>No.</c>
+            </r>
+            <r>
+              <c>04/10/2018 02:25pm</c>
+              <c>9870859</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>Why hello love - was that you I just saw crossing the street in Picadilly?</c>
+            </r>
+            <r>
+              <c>04/10/2018 02:28pm</c>
+              <c>84104898</c>
+              <c>15558675309</c>
+              <c>442079460130</c>
+              <c>Uh, hey Paulina… how are you?</c>
+            </r>
+            <r>
+              <c>04/10/2018 02:31pm</c>
+              <c>187398206</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c><![CDATA[Oh just peachy. Sitting here enjoying a lovely spot of tea, when who do I see strolling down the lane but the infamous Bennett Boddy? ]]></c>
+            </r>
+            <r>
+              <c>04/10/2018 02:32pm</c>
+              <c>21455485</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>The same Bennett Boddy who swore he would remedy that little *incident* in Canterbury next time we crossed paths!</c>
+            </r>
+            <r>
+              <c>04/10/2018 02:45pm</c>
+              <c>32319988</c>
+              <c>15558675309</c>
+              <c>442079460130</c>
+              <c>Now look, Paulina… in my defense, you failed to mention there was a Mr. Peacock in the picture...</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:04pm</c>
+              <c>155161076</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>That does not change the fact that you and your whiskeyed lack of inhibitions punched both my husband AND a priceless vase.</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:16pm</c>
+              <c>54117895</c>
+              <c>15558675309</c>
+              <c>442079460130</c>
+              <c>Priceless?? I thought you said it was from Harrod's?!?</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:38pm</c>
+              <c>183691953</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>Darling, I do NOT shop at Harrod's.</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:39pm</c>
+              <c>142657839</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>I was referring to King Herod I of Judea... it was a part of his coronation collection. Ringing a bell?</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:40pm</c>
+              <c>132574015</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>Regardless, the only priceless thing I want to see is the look of contrition on your face when I see you at this weekend's Peacock Society Annual Auction at The Ballroom Southbank</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:41pm</c>
+              <c>196378142</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>with a check for 1 million GBP. I would recommend using it to bid on the trip to Laos.</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:42pm</c>
+              <c>130238885</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>I hear it's lovely this time of year. And very far away from here.</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:43pm</c>
+              <c>166331019</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>06 Oct 18 at 21:00</c>
+            </r>
+            <r>
+              <c>04/10/2018 03:44pm</c>
+              <c>173551456</c>
+              <c>442079460130</c>
+              <c>15558675309</c>
+              <c>DO NOT BE LATE...</c>
+            </r>
+            <r>
+              <c>05/10/2018 04:49pm</c>
+              <c>143153121</c>
+              <c>15558675309</c>
+              <c>442079460356</c>
+              <c>I received your email earlier this week, Reverend… as it turns out, I'm in London now!</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:07pm</c>
+              <c>61462103</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>I sincerely pray, for your sake, that you are joking.</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:15pm</c>
+              <c>175687390</c>
+              <c>15558675309</c>
+              <c>442079460356</c>
+              <c>Whatever for??</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:28pm</c>
+              <c>99517814</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>Notwithstanding the debt you owe to myself, to God, and to several of your countrymen…</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:29pm</c>
+              <c>104189524</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>But to show up on these streets again after what you did to my daughter on her wedding day?</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:30pm</c>
+              <c>130190496</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>Willow is a God-fearing woman, Bennett, but I believe God himself fears what she might do to you if she were to happen upon you...</c>
+            </r>
+            <r>
+              <c>05/10/2018 05:52pm</c>
+              <c>127772094</c>
+              <c>15558675309</c>
+              <c>442079460356</c>
+              <c>Aw, now surely she's not still that mad.</c>
+            </r>
+            <r>
+              <c>05/10/2018 06:00pm</c>
+              <c>32332032</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>Ere I quote: "The depths of the Mariana Trench are not deep enough to bury him."</c>
+            </r>
+            <r>
+              <c>05/10/2018 06:24pm</c>
+              <c>30336997</c>
+              <c>15558675309</c>
+              <c>442079460356</c>
+              <c>… Oh.</c>
+            </r>
+            <r>
+              <c>05/10/2018 06:48pm</c>
+              <c>13571661</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>I'm giving a service for the kids at The Fulham Study this Sunday. You should come. Cleanse your soul &amp; such.</c>
+            </r>
+            <r>
+              <c>05/10/2018 06:49pm</c>
+              <c>88118551</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>07 Oct 18 at 10:00</c>
+            </r>
+            <r>
+              <c>05/10/2018 06:58pm</c>
+              <c>182299193</c>
+              <c>15558675309</c>
+              <c>442079460356</c>
+              <c><![CDATA[Will she be there? ]]></c>
+            </r>
+            <r>
+              <c>05/10/2018 07:14pm</c>
+              <c>34689560</c>
+              <c>442079460356</c>
+              <c>15558675309</c>
+              <c>I will ask. God help you if she runs into you before then, however…</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:07pm</c>
+              <c>130091471</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>YOU ROTTEN SCOUNDREL</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:08pm</c>
+              <c>176002043</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>HOW DARE YOU SHOW UP HERE</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:09pm</c>
+              <c>83049123</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>…</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:10pm</c>
+              <c>183243749</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>I SWORE IF I EVER SAW YOU AGAIN</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:11pm</c>
+              <c>64320735</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>Now Willow, I am SO sorry…</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:12pm</c>
+              <c>165922768</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>THAT I WOULD MAKE SURE YOU NEVER SAW THE LIGHT OF DAY AGAIN</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:13pm</c>
+              <c>197900682</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>It was a surefire bet!</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:14pm</c>
+              <c>195857658</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>AND THAT I WOULD BURY YOU SO DEEP</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:15pm</c>
+              <c>115818407</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>How was I supposed to know the horse had tripped over a fence the day before and had a busted ankle??</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:16pm</c>
+              <c>38486311</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>THAT THE VULTURES WOULD NEVER FIND YOUR BODY</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:17pm</c>
+              <c>124852318</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>Ascot really should do a better job of reporting these things.</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:18pm</c>
+              <c>17338064</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>And I swear, I didn't realize that money was meant for the honeymoon…</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:19pm</c>
+              <c>96675355</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>I HAD TO SPEND MY HONEYMOON IN ALBEQUERQUE... ALBEQUERQUE!!!</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:20pm</c>
+              <c>98320603</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>…</c>
+            </r>
+            <r>
+              <c>05/10/2018 10:41pm</c>
+              <c>8397911</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>How do you feel about Laos? Honeymoon V2?</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:05pm</c>
+              <c>108464852</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>…</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:08pm</c>
+              <c>180875999</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>I'm listening.</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:10pm</c>
+              <c>160779101</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>Alright. Meet me at Fulham Study this Sunday. Your father will be there, so, um, be nice?</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:11pm</c>
+              <c>176139739</c>
+              <c>15558675309</c>
+              <c>442079460686</c>
+              <c>07 Oct 18 at 10:00</c>
+            </r>
+            <r>
+              <c>05/10/2018 11:30pm</c>
+              <c>40115890</c>
+              <c>442079460686</c>
+              <c>15558675309</c>
+              <c>I make no promises.</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Text Message Data from Mr. Boddy's Phone</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="95">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="258" width="504" height="36" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>QUESTION #1: WHO IS THE CULPRIT?</Text>
+          <Font name="Segoe UI" size="12" style="1" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="85">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="642" width="504" height="240" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[
+You have obtained a list of all credit card purchases made by each of the 6 initial suspects above over the past few days. Parse the data in the Summary text file and filter to the credit card number for the suspect identified in Question #1... then isolate the purchases made by that credit card number in the Purchase Details to identify the criminal’s weapon of choice, which will be one of these common weapons used by the thugs of the London underworld: Candlestick, Knife, Pipe, Revolver, Rope, Wrench.
+
+INPUTS: 
+1.     Suspects’ Credit Card Statement Summary Data
+2.     Listing of Purchase Details]]></Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="94">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="618" y="618" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="149" />
+          <Fields>
+            <Field name="CreditCardNumber" />
+            <Field name="Store" />
+            <Field name="ID" />
+            <Field name="Item" />
+            <Field name="Price" />
+          </Fields>
+          <Data>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>1452016131</c>
+              <c>Pain Reliever Tablets</c>
+              <c>11.69</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>2301852013</c>
+              <c>Cat Food</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>2023581429</c>
+              <c>Laundry Detergent</c>
+              <c>5.32</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>8765623749</c>
+              <c>Phone Screen Protector</c>
+              <c>7.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>3949586</c>
+              <c>Lighter</c>
+              <c>2.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>968472648</c>
+              <c>Whole Chicken</c>
+              <c>9.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>9968390294</c>
+              <c>Cereal</c>
+              <c>3.49</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>8573039992</c>
+              <c>Bananas</c>
+              <c>0.79</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>2892454667</c>
+              <c>Pork Chops</c>
+              <c>17.49</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>7542270275</c>
+              <c>Ice Lollies</c>
+              <c>8.64</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>MS31372</c>
+              <c>1915931973</c>
+              <c>Greeting Card</c>
+              <c>6.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>HR91872</c>
+              <c>1.20355E+20</c>
+              <c>Umbrella</c>
+              <c>12.69</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>HR91872</c>
+              <c>9.54041E+20</c>
+              <c>Clock</c>
+              <c>55.89</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>HR91872</c>
+              <c>2.34029E+20</c>
+              <c>Crystal Candlestick</c>
+              <c>89.49</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>HR91872</c>
+              <c>7.40304E+20</c>
+              <c>Rainboots</c>
+              <c>49.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>PT72111</c>
+              <c>6.02589E+17</c>
+              <c>Hunting Knife</c>
+              <c>37.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>PT72111</c>
+              <c>3.83114E+17</c>
+              <c>Copper Pipe</c>
+              <c>62.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>PT72111</c>
+              <c>2.61573E+17</c>
+              <c>Insect Repellent</c>
+              <c>4.99</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT48766</c>
+              <c>4.46435E+16</c>
+              <c>Socks</c>
+              <c>14.44</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT06461</c>
+              <c>3.28101E+16</c>
+              <c>Nylon Rope</c>
+              <c>17.98</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT06461</c>
+              <c>2.2915E+16</c>
+              <c>Light Bulbs</c>
+              <c>13.97</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT06461</c>
+              <c>2.62949E+16</c>
+              <c>Formula</c>
+              <c>45.54</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT06461</c>
+              <c>6.03461E+15</c>
+              <c>Batteries</c>
+              <c>13.96</c>
+            </r>
+            <r>
+              <c>4189401094462949</c>
+              <c>BT06461</c>
+              <c>2.02192E+16</c>
+              <c>Plasters</c>
+              <c>8.54</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>2023581429</c>
+              <c>Laundry Detergent</c>
+              <c>5.32</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>10299867</c>
+              <c>Tea</c>
+              <c>1.99</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>7757589393</c>
+              <c>Mascara</c>
+              <c>24.99</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>8431652781</c>
+              <c>Tissue</c>
+              <c>5.29</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>7542270275</c>
+              <c>Ice Lollies</c>
+              <c>8.64</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>MS31372</c>
+              <c>7594844479</c>
+              <c>Birthday Candles</c>
+              <c>3.99</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>HR91872</c>
+              <c>3.11791E+20</c>
+              <c>Perfume</c>
+              <c>79.99</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>HR91872</c>
+              <c>5.92762E+20</c>
+              <c>Duvet Cover</c>
+              <c>161.27</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>HR91872</c>
+              <c>2.34029E+20</c>
+              <c>Crystal Candlestick</c>
+              <c>89.49</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>HR91872</c>
+              <c>5.56071E+20</c>
+              <c>Tablecloth</c>
+              <c>25.85</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>1.34317E+16</c>
+              <c>Sunglasses</c>
+              <c>12.79</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>1.89915E+16</c>
+              <c>Storage Containers</c>
+              <c>16.14</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>1.32566E+16</c>
+              <c>Printer Ink</c>
+              <c>49.99</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>1.19716E+16</c>
+              <c>Bracelets</c>
+              <c>10.17</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>5.366E+16</c>
+              <c>Shoelaces</c>
+              <c>5.36</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT48766</c>
+              <c>7.79521E+16</c>
+              <c>Scarf</c>
+              <c>17.01</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT76204</c>
+              <c>2.2915E+16</c>
+              <c>Light Bulbs</c>
+              <c>13.97</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT76204</c>
+              <c>7.03521E+16</c>
+              <c>Diapers</c>
+              <c>37.04</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT76204</c>
+              <c>1.77977E+16</c>
+              <c>Rubbish Bags</c>
+              <c>12.08</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT76204</c>
+              <c>6.85932E+16</c>
+              <c>Toothpaste</c>
+              <c>11.94</c>
+            </r>
+            <r>
+              <c>2998363896648291</c>
+              <c>BT76204</c>
+              <c>3.08022E+16</c>
+              <c>Magazine</c>
+              <c>5</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>1452016131</c>
+              <c>Pain Reliever Tablets</c>
+              <c>11.69</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>2023581429</c>
+              <c>Laundry Detergent</c>
+              <c>5.32</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>1523502535</c>
+              <c>Granola Bars</c>
+              <c>3.5</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>8765623749</c>
+              <c>Phone Screen Protector</c>
+              <c>7.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>8487376278</c>
+              <c>Candles</c>
+              <c>6.49</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>3949586</c>
+              <c>Lighter</c>
+              <c>2.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>8284769450</c>
+              <c>Deli Sandwich</c>
+              <c>7.49</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>968472648</c>
+              <c>Whole Chicken</c>
+              <c>9.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>10299867</c>
+              <c>Tea</c>
+              <c>1.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>3939869030</c>
+              <c>Lipstick</c>
+              <c>17.49</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>MS90434</c>
+              <c>8868488830</c>
+              <c>Gum</c>
+              <c>0.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>2.6247E+20</c>
+              <c>Pillow</c>
+              <c>126</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>1.20355E+20</c>
+              <c>Umbrella</c>
+              <c>12.69</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>9.54041E+20</c>
+              <c>Clock</c>
+              <c>55.89</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>1.89006E+20</c>
+              <c>Area Rug</c>
+              <c>381.19</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>3.11791E+20</c>
+              <c>Perfume</c>
+              <c>79.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>7.40304E+20</c>
+              <c>Rainboots</c>
+              <c>49.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>7.71806E+20</c>
+              <c>Carving Knife</c>
+              <c>89.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>HR91872</c>
+              <c>8.96039E+20</c>
+              <c>Flower Pot</c>
+              <c>9.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>9.729E+17</c>
+              <c>Camping Rope</c>
+              <c>89.97</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>6.02589E+17</c>
+              <c>Hunting Knife</c>
+              <c>37.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>8.41198E+17</c>
+              <c>Sleeping Bag</c>
+              <c>75.19</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>5.51021E+17</c>
+              <c>Water Filter</c>
+              <c>17.88</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>2.12528E+16</c>
+              <c>Socket Wrench Set</c>
+              <c>18.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>9.94544E+17</c>
+              <c>Fishing Tackle Box</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>PT57059</c>
+              <c>5.59042E+17</c>
+              <c>Fishing Pole</c>
+              <c>58.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT06461</c>
+              <c>1.89915E+16</c>
+              <c>Storage Containers</c>
+              <c>16.14</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT06461</c>
+              <c>9.53174E+16</c>
+              <c>Extension Cord</c>
+              <c>13.59</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT48766</c>
+              <c>7.79521E+16</c>
+              <c>Scarf</c>
+              <c>17.01</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT48766</c>
+              <c>4.16571E+16</c>
+              <c>Cake Knife</c>
+              <c>13.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT48766</c>
+              <c>7.03521E+16</c>
+              <c>Diapers</c>
+              <c>37.04</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT48766</c>
+              <c>1.77977E+16</c>
+              <c>Rubbish Bags</c>
+              <c>12.08</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT48766</c>
+              <c>6.03461E+15</c>
+              <c>Batteries</c>
+              <c>13.96</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT06461</c>
+              <c>5.39444E+16</c>
+              <c>Robe</c>
+              <c>26.95</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT06461</c>
+              <c>9.46542E+16</c>
+              <c>Paper Towels</c>
+              <c>5.95</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT76204</c>
+              <c>5.13977E+16</c>
+              <c>Picture Frame</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT76204</c>
+              <c>2.40032E+16</c>
+              <c>Candlestick</c>
+              <c>23.99</c>
+            </r>
+            <r>
+              <c>4118144299736992</c>
+              <c>BT76204</c>
+              <c>9.4765E+16</c>
+              <c>Dog Leash</c>
+              <c>11.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>MS75337</c>
+              <c>2301852013</c>
+              <c>Cat Food</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>MS75337</c>
+              <c>1523502535</c>
+              <c>Granola Bars</c>
+              <c>3.5</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>MS75337</c>
+              <c>3939869030</c>
+              <c>Lipstick</c>
+              <c>17.49</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>MS75337</c>
+              <c>8573039992</c>
+              <c>Bananas</c>
+              <c>0.79</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>MS75337</c>
+              <c>7542270275</c>
+              <c>Ice Lollies</c>
+              <c>8.64</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>HR91872</c>
+              <c>2.6247E+20</c>
+              <c>Pillow</c>
+              <c>126</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>HR91872</c>
+              <c>1.20355E+20</c>
+              <c>Umbrella</c>
+              <c>12.69</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>HR91872</c>
+              <c>1.89006E+20</c>
+              <c>Area Rug</c>
+              <c>381.19</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>HR91872</c>
+              <c>8.96039E+20</c>
+              <c>Flower Pot</c>
+              <c>9.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>PT57059</c>
+              <c>3.29945E+17</c>
+              <c>Portable Air Compressor</c>
+              <c>59.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>PT57059</c>
+              <c>7.99572E+17</c>
+              <c>Lead Pipe</c>
+              <c>31.95</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>PT57059</c>
+              <c>9.94544E+17</c>
+              <c>Fishing Tackle Box</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>PT57059</c>
+              <c>5.59042E+17</c>
+              <c>Fishing Pole</c>
+              <c>58.99</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>1.34317E+16</c>
+              <c>Sunglasses</c>
+              <c>12.79</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>8.34995E+16</c>
+              <c>Whisk</c>
+              <c>5.94</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>9.53174E+16</c>
+              <c>Extension Cord</c>
+              <c>13.59</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>6.30701E+16</c>
+              <c>Kitchen Timer</c>
+              <c>6.3</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>7.79521E+16</c>
+              <c>Scarf</c>
+              <c>17.01</c>
+            </r>
+            <r>
+              <c>9288236467079501</c>
+              <c>BT76204</c>
+              <c>9.5208E+16</c>
+              <c>Doll</c>
+              <c>12.88</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>3661043023</c>
+              <c>USB Charger</c>
+              <c>11.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>1452016131</c>
+              <c>Pain Reliever Tablets</c>
+              <c>11.69</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>1151499855</c>
+              <c>Headphones</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>1523502535</c>
+              <c>Granola Bars</c>
+              <c>3.5</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>8284769450</c>
+              <c>Deli Sandwich</c>
+              <c>7.49</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>968472648</c>
+              <c>Whole Chicken</c>
+              <c>9.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>3939869030</c>
+              <c>Lipstick</c>
+              <c>17.49</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>8484859939</c>
+              <c>Sunscreen</c>
+              <c>8.49</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>MS50165</c>
+              <c>8868488830</c>
+              <c>Gum</c>
+              <c>0.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>PT57059</c>
+              <c>8.41198E+17</c>
+              <c>Sleeping Bag</c>
+              <c>75.19</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>PT57059</c>
+              <c>3.83114E+17</c>
+              <c>Copper Pipe</c>
+              <c>62.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>PT57059</c>
+              <c>6.42309E+17</c>
+              <c>Tent</c>
+              <c>127.27</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>PT57059</c>
+              <c>9.94544E+17</c>
+              <c>Fishing Tackle Box</c>
+              <c>14.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>PT57059</c>
+              <c>4.3467E+17</c>
+              <c>Pipe Wrench</c>
+              <c>32.99</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>3.47149E+16</c>
+              <c>Watercolor Paints</c>
+              <c>14.92</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>1.89915E+16</c>
+              <c>Storage Containers</c>
+              <c>16.14</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>9.53174E+16</c>
+              <c>Extension Cord</c>
+              <c>13.59</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>6.30701E+16</c>
+              <c>Kitchen Timer</c>
+              <c>6.3</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT06461</c>
+              <c>8.49624E+16</c>
+              <c>Ballpoint Pens</c>
+              <c>3.2</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT06461</c>
+              <c>5.366E+16</c>
+              <c>Shoelaces</c>
+              <c>5.36</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT06461</c>
+              <c>1.84107E+16</c>
+              <c>TV Remote</c>
+              <c>9</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT06461</c>
+              <c>3.28101E+16</c>
+              <c>Nylon Rope</c>
+              <c>17.98</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>5.39444E+16</c>
+              <c>Robe</c>
+              <c>26.95</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>2.02192E+16</c>
+              <c>Plasters</c>
+              <c>8.54</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>9.46542E+16</c>
+              <c>Paper Towels</c>
+              <c>5.95</c>
+            </r>
+            <r>
+              <c>2748931237613895</c>
+              <c>BT76204</c>
+              <c>9.4765E+16</c>
+              <c>Dog Leash</c>
+              <c>11.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>1477189526</c>
+              <c>Apple Cider Vinegar</c>
+              <c>14.05</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>8765623749</c>
+              <c>Phone Screen Protector</c>
+              <c>7.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>8474736940</c>
+              <c>Candy</c>
+              <c>0.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>7757589393</c>
+              <c>Mascara</c>
+              <c>24.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>8484859939</c>
+              <c>Sunscreen</c>
+              <c>8.49</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>8431652781</c>
+              <c>Tissue</c>
+              <c>5.29</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>1915931973</c>
+              <c>Greeting Card</c>
+              <c>6.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>353834735</c>
+              <c>Carving Knife</c>
+              <c>28.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>MS75337</c>
+              <c>7594844479</c>
+              <c>Birthday Candles</c>
+              <c>3.99</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>HR91872</c>
+              <c>2.6247E+20</c>
+              <c>Pillow</c>
+              <c>126</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>HR91872</c>
+              <c>1.20355E+20</c>
+              <c>Umbrella</c>
+              <c>12.69</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>HR91872</c>
+              <c>9.54041E+20</c>
+              <c>Clock</c>
+              <c>55.89</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>6.30701E+16</c>
+              <c>Kitchen Timer</c>
+              <c>6.3</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>8.49624E+16</c>
+              <c>Ballpoint Pens</c>
+              <c>3.2</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>7.79521E+16</c>
+              <c>Scarf</c>
+              <c>17.01</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>3.28101E+16</c>
+              <c>Nylon Rope</c>
+              <c>17.98</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>7.03521E+16</c>
+              <c>Diapers</c>
+              <c>37.04</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>6.85932E+16</c>
+              <c>Toothpaste</c>
+              <c>11.94</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>9.5814E+16</c>
+              <c>Watering Can</c>
+              <c>13.9</c>
+            </r>
+            <r>
+              <c>3294351388677880</c>
+              <c>BT06461</c>
+              <c>9.4765E+16</c>
+              <c>Dog Leash</c>
+              <c>11.99</c>
+            </r>
+            <r>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Purchase Details</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="102">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="606" width="504" height="36" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>QUESTION #2: WHAT WAS THE WEAPON?</Text>
+          <Font name="Segoe UI" size="12" style="1" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="80">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="954" width="504" height="252" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[
+Mr. Boddy was discovered on the River Thames near the Tower Bridge, and based on the timing of his last Instagram post, detectives have determined the crime must have been committed nearby - within a 1km radius of the point of discovery.
+
+Detectives have been able to determine Mr. Boddy’s various locations throughout the day based on the collection of photos in his last Instagram post, so use these locations to determine which was the likely scene of the crime based on the search radius.
+
+INPUTS: 
+1.     Lat/Lon of Mr. Boddy's point of discovery
+2.     Lat/Lon of Mr. Boddy's Instagram Post locations
+]]></Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="618" y="822" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="LOCATION" />
+            <Field name="TYPE" />
+            <Field name="LAT" />
+            <Field name="LON" />
+          </Fields>
+          <Data>
+            <r>
+              <c>The London Kitchen</c>
+              <c>Caterer</c>
+              <c>51.495531</c>
+              <c>-0.115524</c>
+            </r>
+            <r>
+              <c>The Ballroom Southbank</c>
+              <c>Event Venue</c>
+              <c>51.506283</c>
+              <c>-0.112956</c>
+            </r>
+            <r>
+              <c>Conservatory Bar</c>
+              <c>Bar</c>
+              <c>51.501971</c>
+              <c>-0.023116</c>
+            </r>
+            <r>
+              <c>Queen Elizabeth Hall</c>
+              <c>Concert Venue</c>
+              <c>51.506697</c>
+              <c>-0.116198</c>
+            </r>
+            <r>
+              <c>The Fulham Study</c>
+              <c>School</c>
+              <c>51.471132</c>
+              <c>-0.207069</c>
+            </r>
+            <r>
+              <c>The National Poetry Library</c>
+              <c>Library</c>
+              <c>51.505976</c>
+              <c>-0.116546</c>
+            </r>
+            <r>
+              <c>Shades Snooker &amp; Billiard Club</c>
+              <c>Pool Hall</c>
+              <c>51.480507</c>
+              <c>-0.026868</c>
+            </r>
+            <r>
+              <c>CellarDoor</c>
+              <c>Bar</c>
+              <c>51.511688</c>
+              <c>-0.119360</c>
+            </r>
+            <r>
+              <c>Quarter Bar &amp; Lounge</c>
+              <c>Bar</c>
+              <c>51.505317</c>
+              <c>-0.088256</c>
+            </r>
+            <r>
+              <c>Disappearing Dining Club</c>
+              <c>Restaurant</c>
+              <c>51.519391</c>
+              <c>-0.098316</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Instagram Post Locations</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="618" y="942" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="1" />
+          <Fields>
+            <Field name="Location of Discovery" />
+            <Field name="Lat" />
+            <Field name="Lon" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Tower Bridge</c>
+              <c>51.505431</c>
+              <c>-0.075423</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Point of Discovery</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="103">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="918" width="504" height="36" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>QUESTION #3: WHERE IS THE SCENE OF THE CRIME?</Text>
+          <Font name="Segoe UI" size="12" style="1" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="109">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="618" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="44" />
+          <Fields>
+            <Field name="Field1" />
+          </Fields>
+          <Data>
+            <r>
+              <c>RecordID|TransID|TransDate|TransTime|TransCode|CardNumber|ExpDate|CardholderName|Address|City|Country|Zip|StoreID|CardType|Amount</c>
+            </r>
+            <r>
+              <c>0000000001|0000000001|10042018|1945|IX|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|MS50165|VISA|0000002697</c>
+            </r>
+            <r>
+              <c>0000000002|0000000002|10042018|1725|IX|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|BT06461|VISA|0000003554</c>
+            </r>
+            <r>
+              <c>0000000003|0000000003|10052018|0175|IP|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|MS50165|VISA|0000002098</c>
+            </r>
+            <r>
+              <c>0000000004|0000000004|10052018|0228|IX|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|PT72111|VISA|0000011097</c>
+            </r>
+            <r>
+              <c>0000000005|0000000005|10052018|1749|IX|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|BT76204|VISA|0000005343</c>
+            </r>
+            <r>
+              <c>0000000006|0000000006|10062018|1749|IX|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|MS50165|VISA|0000003867</c>
+            </r>
+            <r>
+              <c>0000000007|0000000007|10062018|1515|IP|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|PT72111|VISA|0000020246</c>
+            </r>
+            <r>
+              <c>0000000008|0000000008|10062018|1417|IP|2748XXXXXXXX3895|1219|Willow White|20 Brighton Terrace|Brixton|UK|SW9 8DL|BT76204|VISA|0000005095</c>
+            </r>
+            <r>
+              <c>0000000009|0000000001|10042018|1555|IP|2998XXXXXXXX8291|0719|Paul Plum|11 Manchester Grove|Isle of Dogs|UK|E14 3BG|BT76204|DISC|0000008003</c>
+            </r>
+            <r>
+              <c>0000000010|0000000002|10052018|1658|IP|2998XXXXXXXX8291|0719|Paul Plum|11 Manchester Grove|Isle of Dogs|UK|E14 3BG|BT48766|DISC|0000003254</c>
+            </r>
+            <r>
+              <c>0000000011|0000000003|10062018|1156|IP|2998XXXXXXXX8291|0719|Paul Plum|11 Manchester Grove|Isle of Dogs|UK|E14 3BG|MS31372|DISC|0000005022</c>
+            </r>
+            <r>
+              <c>0000000012|0000000004|10062018|1523|IP|2998XXXXXXXX8291|0719|Paul Plum|11 Manchester Grove|Isle of Dogs|UK|E14 3BG|HR91872|DISC|0000035660</c>
+            </r>
+            <r>
+              <c>0000000013|0000000005|10062018|0215|IX|2998XXXXXXXX8291|0719|Paul Plum|11 Manchester Grove|Isle of Dogs|UK|E14 3BG|BT48766|DISC|0000007892</c>
+            </r>
+            <r>
+              <c>0000000014|0000000001|10052018|1022|IS|3294XXXXXXXX7880|1220|Scarlett Smith|10 Lansdowne Cres|London|UK|W11 2NJ|MS75337|MSCRD|0000000399</c>
+            </r>
+            <r>
+              <c>0000000015|0000000002|10052018|0853|IX|3294XXXXXXXX7880|1220|Scarlett Smith|10 Lansdowne Cres|London|UK|W11 2NJ|BT06461|MSCRD|0000005240</c>
+            </r>
+            <r>
+              <c>0000000016|0000000003|10062018|1128|IP|3294XXXXXXXX7880|1220|Scarlett Smith|10 Lansdowne Cres|London|UK|W11 2NJ|MS75337|MSCRD|0000009778</c>
+            </r>
+            <r>
+              <c>0000000017|0000000004|10062018|0148|IX|3294XXXXXXXX7880|1220|Scarlett Smith|10 Lansdowne Cres|London|UK|W11 2NJ|HR91872|MSCRD|0000019458</c>
+            </r>
+            <r>
+              <c>0000000018|0000000005|10062018|2247|IS|3294XXXXXXXX7880|1220|Scarlett Smith|10 Lansdowne Cres|London|UK|W11 2NJ|BT06461|MSCRD|0000006696</c>
+            </r>
+            <r>
+              <c>0000000019|0000000001|10032018|1642|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|BT76204|MSCRD|0000005097</c>
+            </r>
+            <r>
+              <c>0000000020|0000000002|10042018|1040|IP|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|HR91872|MSCRD|0000022996</c>
+            </r>
+            <r>
+              <c>0000000021|0000000003|10042018|0755|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|PT57059|MSCRD|0000009297</c>
+            </r>
+            <r>
+              <c>0000000022|0000000004|10042018|2031|IP|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|BT06461|MSCRD|0000003290</c>
+            </r>
+            <r>
+              <c>0000000023|0000000005|10052018|1232|IP|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|MS90434|MSCRD|0000003046</c>
+            </r>
+            <r>
+              <c>0000000024|0000000006|10052018|1744|IP|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|HR91872|MSCRD|0000043708</c>
+            </r>
+            <r>
+              <c>0000000025|0000000007|10052018|2256|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|PT57059|MSCRD|0000001788</c>
+            </r>
+            <r>
+              <c>0000000026|0000000008|10052018|0229|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|BT48766|MSCRD|0000009408</c>
+            </r>
+            <r>
+              <c>0000000027|0000000009|10062018|1340|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|MS90434|MSCRD|0000004547</c>
+            </r>
+            <r>
+              <c>0000000028|0000000010|10062018|1137|IX|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|HR91872|MSCRD|0000013869</c>
+            </r>
+            <r>
+              <c>0000000029|0000000011|10062018|0219|IS|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|PT57059|MSCRD|0000020315</c>
+            </r>
+            <r>
+              <c>0000000030|0000000012|10062018|2030|IP|4118XXXXXXXX6992|0319|Paulina Peacock|21 Denbridge Rd|Bromley|UK|BR1 2AG|BT06461|MSCRD|0000002973</c>
+            </r>
+            <r>
+              <c>0000000031|0000000001|10042018|0168|IX|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|BT06461|VISA|0000006804</c>
+            </r>
+            <r>
+              <c>0000000032|0000000002|10052018|1634|IP|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|MS31372|VISA|0000004739</c>
+            </r>
+            <r>
+              <c>0000000033|0000000003|10052018|1055|IX|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|BT06461|VISA|0000003195</c>
+            </r>
+            <r>
+              <c>0000000034|0000000004|10062018|1458|IX|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|MS31372|VISA|0000004298</c>
+            </r>
+            <r>
+              <c>0000000035|0000000005|10062018|1532|IP|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|HR91872|VISA|0000020806</c>
+            </r>
+            <r>
+              <c>0000000036|0000000006|10062018|1237|IP|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|PT72111|VISA|0000010597</c>
+            </r>
+            <r>
+              <c>0000000037|0000000007|10062018|1027|IP|4189XXXXXXXX2949|0520|George Green|123 Camden St|Camden Town|UK|NW1 0HX|BT48766|VISA|0000001444</c>
+            </r>
+            <r>
+              <c>0000000038|0000000001|10052018|1657|IX|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|MS81706|VISA|0000000943</c>
+            </r>
+            <r>
+              <c>0000000039|0000000002|10052018|0136|IX|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|BT76204|VISA|0000002583</c>
+            </r>
+            <r>
+              <c>0000000040|0000000003|10062018|2244|IX|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|MS75337|VISA|0000003598</c>
+            </r>
+            <r>
+              <c>0000000041|0000000004|10062018|1022|IX|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|HR91872|VISA|0000052987</c>
+            </r>
+            <r>
+              <c>0000000042|0000000005|10062018|0227|IS|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|PT57059|VISA|0000016592</c>
+            </r>
+            <r>
+              <c>0000000043|0000000006|10062018|1352|IX|9288XXXXXXXX9501|1120|Matthew Mustard|5 Circus St|London|UK|SE10 8SG|BT76204|VISA|0000004268</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Credit Card Statement Summary Data</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="110">
+      <GuiSettings>
+        <Position x="690" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"Phone Number"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">True</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">True</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="111">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1074" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="suspect" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Phone Number" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="112">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="702" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>MessageDate</InputFieldName>
+          <Format>dd/MM/yyyy hh:mm</Format>
+          <OutputFieldName>MessageDateTime</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert MessageDate From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="113">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="786" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>substring([Message],3,3)="Oct"</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>
+            </Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-10-10 06:23:48</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-10-10 06:23:48</StartDate>
+              <EndDate>2018-10-10 06:23:48</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>substring([Message],3,3)="Oct"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="114">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="882" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="if StartsWith(tostring([Message From]),&quot;1&quot;) then&#xA;	[Message To]&#xA;else&#xA;	[Message From]&#xA;endif" field="suspect" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;2018-10-07 15:00:00&quot;" field="Murder time" size="19" type="DateTime" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>suspect = if StartsWith(tostring([Message From]),"1") then
+	[Message To]
+else
+	[...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="115">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1170" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[RendevousDate] &lt;= [Murder time]</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>&lt;=</Operator>
+            <Field>MessageDateTime</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>False</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-10-10 06:32:37</PeriodDate>
+              <PeriodType>days</PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2018-10-10 00:00:00</Operand>
+              <StartDate>2018-10-10 06:32:37</StartDate>
+              <EndDate>2018-10-10 06:32:37</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[RendevousDate] &lt;= [Murder time]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="116">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1266" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="datetimediff([Murder time],[RendevousDate],&quot;minutes&quot;)" field="TimeBeforeMurder" size="4" type="Int32" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[TimeBeforeMurder = datetimediff([Murder time],[RendevousDate],"minutes")
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="117">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="978" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Message</InputFieldName>
+          <Format>dd Mon. yy at hh:mm</Format>
+          <OutputFieldName>RendevousDate</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Message From:
+Custom</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="118">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1362" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="TimeBeforeMurder" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>TimeBeforeMurder - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="119">
+      <GuiSettings>
+        <Position x="1458" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">1</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="120">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1554" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\SHOKAT~1\AppData\Local\Temp\1\Engine_8108_a0e17cf13436477a877b1d149f6ca832_\Engine_13296_404ddb42d3594e009daea4ff592d85a8_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="121">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="714" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Field1</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>SummaryData</RootName>
+          <Delimeters value="|" />
+          <NumFields value="18" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="122">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="810" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="Field1" />
+            <Field name="SummaryData1" />
+            <Field name="SummaryData2" />
+            <Field name="SummaryData3" />
+            <Field name="SummaryData4" />
+            <Field name="SummaryData5" />
+            <Field name="SummaryData6" />
+            <Field name="SummaryData7" />
+            <Field name="SummaryData8" />
+            <Field name="SummaryData9" />
+            <Field name="SummaryData10" />
+            <Field name="SummaryData11" />
+            <Field name="SummaryData12" />
+            <Field name="SummaryData13" />
+            <Field name="SummaryData14" />
+            <Field name="SummaryData15" />
+            <Field name="SummaryData16" />
+            <Field name="SummaryData17" />
+            <Field name="SummaryData18" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID|TransID|TransDate|TransTime|TransCode|CardNumber|ExpDate|CardholderName|Address|City|Country|Zip|StoreID|CardType|Amount" size="138" source="TextInput:" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="RecordID" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="TransID" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="TransDate" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="TransTime" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="TransCode" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="CardNumber" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="ExpDate" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="CardholderName" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Address" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="City" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Country" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Zip" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="StoreID" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="CardType" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Amount" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Field_20" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Field_20_2" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+            <Field description="TextToColumns: Parsed from Field1" name="Field_20_3" size="138" source="TextToColumns: Parsed from Field1" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="123">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="882" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Left([CardNumber],4) + right([CardNumber],4)" field="CardLink" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[CardLink = Left([CardNumber],4) + right([CardNumber],4)
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="124">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="618" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="6" />
+          <Fields>
+            <Field name="Weapon" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Candlestick</c>
+            </r>
+            <r>
+              <c>Knife</c>
+            </r>
+            <r>
+              <c>Pipe</c>
+            </r>
+            <r>
+              <c>Revolver</c>
+            </r>
+            <r>
+              <c>Rope</c>
+            </r>
+            <r>
+              <c>Wrench</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="125">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="738" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>Item</FieldFind>
+          <FieldSearch>Weapon</FieldSearch>
+          <ReplaceFoundField>Weapon</ReplaceFoundField>
+          <FindMode>FindAny</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="Weapon" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="126">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="822" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([Weapon])</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>Weapon</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2018-10-10 06:53:40</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2018-10-10 06:53:40</StartDate>
+              <EndDate>2018-10-10 06:53:40</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([Weapon])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="127">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="918" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Left(tostring([CreditCardNumber],0),4) + right(tostring([CreditCardNumber],0),4)" field="CardLink" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CardLink = Left(tostring([CreditCardNumber],0),4) + right(tostring([CreditCardNu...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="128">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1074" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="CardLink" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="CardLink" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Field_20" selected="False" />
+                <SelectField field="Left_Field_20_2" selected="False" />
+                <SelectField field="Left_Field_20_3" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="129">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="978" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RecordID|TransID|TransDate|TransTime|TransCode|CardNumber|ExpDate|CardholderName|Address|City|Country|Zip|StoreID|CardType|Amount" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="130">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="1170" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="CardholderName" />
+            <Field field="Weapon" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: CardholderName, Weapon</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="131">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1374" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="CardholderName" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="132">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1494" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\SHOKAT~1\AppData\Local\Temp\1\Engine_8108_a0e17cf13436477a877b1d149f6ca832_\Engine_13296_1d80257f6488480ca2ceef8916fd2b02_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="133">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+        <Position x="726" y="942" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields fieldX="Lon" fieldY="Lat" />
+          <Mode>Double</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+    </Node>
+    <Node ToolID="134">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.CreatePoints.CreatePoints">
+        <Position x="726" y="822" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields fieldX="LON" fieldY="LAT" />
+          <Mode>Double</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxCreatePoints" />
+    </Node>
+    <Node ToolID="135">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.FindNearest.FindNearest">
+        <Position x="846" y="882" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Target SpatialObj="Centroid" />
+          <Universe SpatialObj="Centroid" />
+          <HowMany value="2" />
+          <MaxDistance value="1" />
+          <MaxDistanceUnits>Kilometers</MaxDistanceUnits>
+          <Ignore0 value="False" />
+          <DriveTimeDataSet>Latest</DriveTimeDataSet>
+          <SelectConfiguration>
+            <Configuration outputConnection="Matched">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxFindNearest" />
+    </Node>
+    <Node ToolID="136">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="954" y="882" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\SHOKAT~1\AppData\Local\Temp\1\Engine_8108_a0e17cf13436477a877b1d149f6ca832_\Engine_13296_a288d06b1dfb4ae99ba5cf7d3ec3149c_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Map</DefaultTab>
+              <Hints>
+                <Map>
+                  <BaseMap>[No Base Map]</BaseMap>
+                </Map>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="96">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="77.9999" y="498" width="206.8625" height="19" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>HINT (Only if you're stuck!)</Caption>
+          <Style TextColor="#ffffff" FillColor="#808080" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="97">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="104" y="542" width="442" height="64" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Mr. Boddy's contacts are all very consistent: the format used in all text messages any time a datetime is referenced will be 01 Jan 18 at 17:00.
+
+For help with datetime formats, check out the following Help link:</Text>
+              <Font name="Segoe UI" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="3" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="98">
+          <GuiSettings Plugin="AlteryxGuiToolkit.HtmlBox.HtmlBox">
+            <Position x="102.9999" y="618" width="456" height="200" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <URL>https://help.alteryx.com/11.8/index.htm#Reference/DateTimeFunctions.htm</URL>
+              <HideAddressBar value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="78">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="881" y="58" width="254" height="160" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>ENTER YOUR SOLUTIONS HERE!</Caption>
+          <Style TextColor="#400040" FillColor="#ffffff" BorderColor="#ff0000" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="72">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1026" y="102" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\SHOKAT~1\AppData\Local\Temp\1\Engine_8108_a0e17cf13436477a877b1d149f6ca832_\Engine_13296_9271029fcb6c450991a140ee83c1438f_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Check Answer Here!</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="137">
+          <GuiSettings>
+            <Position x="906" y="102" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Drop Down (7)">___</Value>
+              <Value name="Drop Down (2)">___</Value>
+              <Value name="Drop Down (8)">___</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="..\..\..\Downloads\Cluedo Start\ClueAnswerMacro.yxmc" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="101">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="78" y="810" width="206.8625" height="19" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>HINT (Only if you're stuck!)</Caption>
+          <Style TextColor="#ffffff" FillColor="#808080" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="99">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="103" y="854" width="335" height="84" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Some of the digits in the credit card numbers in the Summary file are masked for privacy. You'll need to convert the non-masked numbers in the detail file to a format that is equivalently masked in order to match the credit card owners (from the Summary file) to the credit card transactions (Purchase Details file).</Text>
+              <Font name="Segoe UI" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="3" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="105">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="78" y="1146" width="206.8625" height="19" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>HINT (Only if you're stuck!)</Caption>
+          <Style TextColor="#ffffff" FillColor="#808080" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="104">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="103" y="1190" width="335" height="108" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>Convert the various locations &amp; the point of discovery to Spatial Objects first, then determine how far each Instagram post location is from the Tower Bridge location. You can accomplish this several ways, including (and certainly not limited to!): 
+a) Distance between locations, then filter for less than 1km
+b) Trade Area of 1km, then Spatial Match
+c) Find Nearest Tool</Text>
+              <Font name="Segoe UI" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="3" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="110" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="112" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="94" Connection="Output" />
+      <Destination ToolID="125" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="124" Connection="Output" />
+      <Destination ToolID="125" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="134" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="133" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="109" Connection="Output" />
+      <Destination ToolID="121" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="110" Connection="Output26" />
+      <Destination ToolID="111" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="117" Connection="Output" />
+      <Destination ToolID="111" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="111" Connection="Join" />
+      <Destination ToolID="115" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="112" Connection="Output" />
+      <Destination ToolID="113" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="113" Connection="True" />
+      <Destination ToolID="114" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="114" Connection="Output" />
+      <Destination ToolID="117" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="115" Connection="True" />
+      <Destination ToolID="116" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="116" Connection="Output" />
+      <Destination ToolID="118" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="118" Connection="Output" />
+      <Destination ToolID="119" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="119" Connection="Output" />
+      <Destination ToolID="120" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="119" Connection="Output" />
+      <Destination ToolID="131" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="130" Connection="Unique" />
+      <Destination ToolID="131" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="121" Connection="Output" />
+      <Destination ToolID="122" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="122" Connection="Output" />
+      <Destination ToolID="123" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="123" Connection="Output" />
+      <Destination ToolID="129" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="125" Connection="Output" />
+      <Destination ToolID="126" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="126" Connection="True" />
+      <Destination ToolID="127" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="127" Connection="Output" />
+      <Destination ToolID="128" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="129" Connection="Output" />
+      <Destination ToolID="128" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="128" Connection="Join" />
+      <Destination ToolID="130" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="131" Connection="Join" />
+      <Destination ToolID="132" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="133" Connection="Output" />
+      <Destination ToolID="135" Connection="Universe" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="134" Connection="Output" />
+      <Destination ToolID="135" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="135" Connection="Matched" />
+      <Destination ToolID="136" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="137" Connection="Results" />
+      <Destination ToolID="72" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>challenge_136_ShokatAli</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
